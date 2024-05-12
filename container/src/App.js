@@ -4,7 +4,7 @@ import { MarketingApp } from './components/MarketingApp'
 function App() {
   return (
     <>
-      <h1>Container hello world</h1>
+      <h1>Container hello wor</h1>
       <MarketingApp />
     </>
   )
